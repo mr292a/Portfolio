@@ -83,3 +83,7 @@ main em {
 footer p {
   color: #fff;
 }
+
+img {
+  border-style: solid;
+}
